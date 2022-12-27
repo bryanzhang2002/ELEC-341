@@ -1,0 +1,44 @@
+FILENAME: 69238335-A4.txt
+============================
+
+Question #1 (1)   G11
+INCORRECT: 50% < Error
+Grade : 1
+
+Question #1 (1)   G12
+INCORRECT: 50% < Error
+Grade : 1
+
+Question #1 (1)   G21
+INCORRECT: 50% < Error
+Grade : 1
+
+Question #1 (1)   G2
+INCORRECT: 50% < Error
+Grade : 1
+
+Question #2 (1)   G2
+INCORRECT: 50% < Error
+Grade : 0
+
+Question #2 (1)   G2
+INCORRECT: 50% < Error
+Grade : 0
+
+Question #3 (1)   Y Elec
+CORRECT: Error < 5%
+Grade : 1
+
+Question #3 (1)   Y Mech
+INCORRECT: 50% < Error
+Grade : 1
+
+Question #3 (2)   G
+INCORRECT: 50% < Error
+Grade : 0
+
+===========================
+Total: 6 / 10
+
+Message From Grader:
+For some questions your figures are not the same as the answer key

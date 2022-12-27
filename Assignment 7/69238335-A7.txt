@@ -1,0 +1,41 @@
+FILENAME: 69238335-A7.txt
+============================
+
+Question #1 (1)   Derivative Gain
+CORRECT: Error < 10%
+Grade : 1
+
+Question #1 (1)   Dynamics
+CORRECT: Error < 10%
+Grade : 1
+
+Question #2 (1)   Ult Gain
+CORRECT: Error < 10%
+Grade : 1
+
+Question #2 (1/2)   SS Error 50
+CORRECT: Error < 10%
+Grade : 0.5
+
+Question #2 (1/2)   SS Error 99
+CORRECT: Error < 10%
+Grade : 0.5
+
+Question #3 (3)   Curves Match AND RCGs Satisfied
+Grade : 0
+
+Question #4 (1/2)   Ult Gain
+CORRECT: Error < 10%
+Grade : 0.5
+
+Question #4 (1/2)   CL Xfer Func
+INCORRECT: 100% < Error
+Grade : 0.5
+
+Question #5 (3)   Curves Match AND RCGs Satisfied
+Grade : 0
+
+===========================
+Total: 5 / 11
+
+Message From Grader:

@@ -1,0 +1,27 @@
+FILENAME: 69238335-A1.txt
+============================
+
+Question #1 (2)   Op-Amp CCT Analysis
+CORRECT: Error < 10%
+Grade : 2
+
+Question #2 (2)   Check Envelope
+Grade : 2
+
+Question #3 (1)   Check Impulse Response
+Grade : 1
+
+Question #4 (2)   Nodal Analysis
+Grade : 2
+
+Question #5 (2)   Check Envelope
+Grade : 0
+
+Question #6 (1)   Zoom in on Fig to check
+Grade : 1
+
+===========================
+Total: 8 / 10
+
+Message From Grader:
+Great job!

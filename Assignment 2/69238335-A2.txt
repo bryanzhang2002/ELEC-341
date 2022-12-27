@@ -1,0 +1,100 @@
+
+Enter Student Index:  
+Enter 8-Digit Student Number:  69238335
+***
+Using 69238335-A2-2.MAT
+***
+
+
+Question #1 Rise Time
+=====================
+CORRECT: Error < 10%
+
+Question #1 Peak Time
+=====================
+CORRECT: Error < 5%
+
+Question #1 Sett Time
+=====================
+CORRECT: Error < 10%
+
+Question #1 Overshoot
+=====================
+CLOSE: 5% < Error < 10%
+
+Question #2 (1/4)   Zeta
+========================
+CORRECT: Error < 1%
+Grade : 0.25
+
+Question #2 (1/4)   wn #1
+=========================
+Answer : 13.3731
+Key    : 13373.1
+INCORRECT: 10% < Error
+Enter Grade (def 0):  0
+Grade : 0
+
+Question #2 Incorrect z or wn
+=============================
+Cannot grade question
+
+Question #3 (1/2)   wn #2
+=========================
+Answer : 8.46324
+Key    : 8463.24
+INCORRECT: 10% < Error
+Enter Grade (def 0):  0
+Grade : 0
+
+Question #3 Incorrect z or wn
+=============================
+Cannot grade question
+
+Question #4 (1/2)   Zeta
+========================
+CORRECT: Error < 1%
+Grade : 0.5
+
+Question #4 (1/2)   wn
+======================
+Answer : 8.46324
+Key    : 8764.55
+INCORRECT: 10% < Error
+Enter Grade (def 0):  0
+Grade : 0
+
+Question #5 (1/2)   Zeta
+========================
+CORRECT: Error < 1%
+Grade : 0.5
+
+Question #5 (1/2)   wn
+======================
+Answer : 8.46324
+Key    : 9536.1
+INCORRECT: 10% < Error
+Enter Grade (def 0):  0
+Grade : 0
+
+Question #5 (2)   G4-5: Check Figure
+====================================
+Enter Grade (def 0):  0
+Error using checkArgsForHandleToPrint
+What follows -f is not a figure handle.
+
+Error in checkArgsForHandleToPrint
+
+Error in print>LocalCreatePrintJob (line 101)
+handles = checkArgsForHandleToPrint(0, varargin{:});
+
+Error in print (line 38)
+[pj, inputargs] = LocalCreatePrintJob(varargin{:});
+
+Error in a2
+
+Error in a2
+
+Comment: I see and error in the code and couldn't grade the rest of your assignment. You defined a name for a variable wrongly.
+
+Grade: 1.25
